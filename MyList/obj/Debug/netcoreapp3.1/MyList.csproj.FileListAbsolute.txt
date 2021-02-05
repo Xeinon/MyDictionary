@@ -1,0 +1,11 @@
+C:\Users\ANAR\source\repos\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\ANAR\source\repos\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\ANAR\source\repos\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\ANAR\source\repos\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\ANAR\source\repos\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\ANAR\source\repos\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\ANAR\source\repos\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+C:\Users\ANAR\source\repos\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\ANAR\source\repos\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\ANAR\source\repos\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\ANAR\source\repos\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
